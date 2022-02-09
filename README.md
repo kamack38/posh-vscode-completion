@@ -1,4 +1,4 @@
-# 🚧 THIS REPO IS UNDER CONSTRICTION 🚧
+# 🚧 THIS REPO IS UNDER CONSTRUCTION 🚧
 
 Of course any PRs are welcome
 
